@@ -1,0 +1,7 @@
+print("Day 1 - Python Print Function")
+print("The Function is declared like this:")
+print("print(´What to Print´)")
+print("***********************************************")
+print("Day 1 - String Manipulation")
+print('String Concatenation is done with "+" sign')
+print('e.g. print("Hello" + "World")\nNew lines can be created backslash and n')
